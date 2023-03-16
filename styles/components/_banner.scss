@@ -11,16 +11,17 @@
     .inner-banner {
         padding: 3rem;
         background-color: $cor-clara;
-        opacity: 0.5;
+        opacity: 0.4;
         border-radius: 45px;
         h1 {
             font-size: $tamanho-texto * 2.5;
             text-align: center;
-            color: $cor-tercearia
+            color: $cor-primaria;
+            text-shadow: 1px;
         }
         h2 {
             font-size: $tamanho-texto;
-            color: $cor-tercearia;
+            color: $cor-primaria;
         }
     }
 }
