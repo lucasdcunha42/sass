@@ -181,6 +181,18 @@ nav ul li a:hover {
 }
 
 footer {
+  text-align: center;
   font-size: 1.5rem;
+  border-top: 2px solid #4D455D;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  color: #F5E9CF;
+  letter-spacing: 1px;
+  background: -webkit-gradient(linear, right top, left top, from(#4D455D), color-stop(#E96479), color-stop(#7DB9B6), to(#4D455D));
+  background: linear-gradient(to left, #4D455D, #E96479, #7DB9B6, #4D455D);
+}
+
+footer i {
+  color: red;
 }
 /*# sourceMappingURL=style.css.map */
