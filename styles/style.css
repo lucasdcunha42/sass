@@ -43,14 +43,14 @@ nav ul li a:hover {
 }
 
 .banner .inner-banner {
-  padding: 3rem;
+  padding: 2rem;
   background-color: #F5E9CF;
   opacity: 0.4;
   border-radius: 45px;
 }
 
 .banner .inner-banner h1 {
-  font-size: 7.5rem;
+  font-size: 6rem;
   text-align: center;
   color: #4D455D;
   text-shadow: 1px;
